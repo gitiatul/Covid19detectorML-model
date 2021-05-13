@@ -1,5 +1,4 @@
 # Covid19detectorML-model
-This ML model detects the covid19 patient 
 http://coviddetectorindia.herokuapp.com/
 							<p>This ML model detects the probability of covid19 patient depending on their condition .</p>
 						    <p>For UI using html , css </p>
